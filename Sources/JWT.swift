@@ -82,6 +82,10 @@ public enum Algorithm: CustomStringConvertible {
       
     case .rs256(let privateKey):
       return try signRSA(privateKey, digestType: .sha256)
+    
+    case .rs512(let privateKey):
+      return try signRSA(privateKey, digestType: .sha512)
+      
       
     }
   }

@@ -4,8 +4,7 @@
     {
       "package": "CryptoSwift",
       "reason": null,
-      "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift",
-      "version": "0.6.9"
+      "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift"
     }
   ],
   "version": 1
